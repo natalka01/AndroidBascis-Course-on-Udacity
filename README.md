@@ -1,2 +1,2 @@
 # AndroidBascis-Course-on-Udacity
-Any filescreated stored here.
+Any files created are stored here.
